@@ -55,3 +55,7 @@
 - O nome do amigo não pode ser vazio ou numérico.
 - O mesmo amigo não será sorteado mais de uma vez.
 - Após o 3º sorteio, o sorteio será encerrado automaticamente.
+
+**Ferramentas usadas para auxiliar o desenvolvimento do código:**
+- Visual Studio Code;
+- ChatGPT.
